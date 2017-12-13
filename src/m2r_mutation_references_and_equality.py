@@ -7,7 +7,7 @@ This module demonstrates:
  5. Two equality operators:   is   ==
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
+         their colleagues and Sydney Larson.
 """  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
@@ -18,7 +18,7 @@ import rosegraphics as rg
 ########################################################################
 
 # ----------------------------------------------------------------------
-# TODO: 2.
+# DONE: 2.
 #  Step a:  READ the   mutate_point   function below.
 #
 #  Step b:  Note that the code in main has 5 parts numbered 1, 2, ... 5.
